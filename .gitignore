@@ -39,6 +39,10 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+images/
+.idea
+video_gray.avi
+my_image.png
 .Python
 build/
 develop-eggs/
